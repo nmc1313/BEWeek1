@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hey there",
+      "published": true
+    },
+    {
+      "id": "10",
+      "title": "ping",
+      "published": "false"
+    },
+    {
+      "id": "11",
+      "title": "happyMonday",
+      "published": "true"
+    },
+    {
+      "id": "5",
+      "title": "web submission",
+      "published": "false"
+    },
+    {
+      "id": "13",
+      "title": "New Post test",
+      "published": false
+    },
+    {
+      "id": "133",
+      "title": "New Post test 2",
+      "published": false
+    },
+    {
+      "id": "100",
+      "title": "New Post test 100",
+      "published": false
+    },
+    {
+      "id": "1000",
+      "title": "New Post test 1000",
+      "published": false
+    },
+    {
+      "id": "5",
+      "title": "New Post50",
+      "published": true
+    },
+    {
+      "id": "8322",
+      "title": "Wednesday",
+      "published": true
+    },
+    {
+      "id": "101",
+      "title": "anotherTest",
+      "published": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "little_server",
+  "version": "1.0.0",
+  "description": "small server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nmc1313@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
